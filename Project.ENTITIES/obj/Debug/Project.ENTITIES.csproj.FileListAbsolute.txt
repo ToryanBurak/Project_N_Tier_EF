@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.ENTITIES\bin\Debug\Project.ENTITIES.dll
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.ENTITIES\bin\Debug\Project.ENTITIES.pdb
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.ENTITIES\obj\Debug\Project.ENTITIES.dll
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.ENTITIES\obj\Debug\Project.ENTITIES.pdb
