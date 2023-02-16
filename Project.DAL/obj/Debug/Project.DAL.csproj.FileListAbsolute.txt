@@ -1,0 +1,17 @@
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\Project.DAL.dll.config
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\Project.DAL.dll
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\Project.DAL.pdb
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\EntityFramework.dll
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\Project.ENTITIES.dll
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\Project.MAP.dll
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\Project.ENTITIES.pdb
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\Project.MAP.pdb
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\Project.MAP.dll.config
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\EntityFramework.xml
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\obj\Debug\Project.DAL.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\obj\Debug\Project.DAL.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\obj\Debug\Project.DAL.csproj.CopyComplete
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\obj\Debug\Project.DAL.dll
+E:\Visual Studio Projects\240123_Project_N-Tier\Project.DAL\obj\Debug\Project.DAL.pdb
